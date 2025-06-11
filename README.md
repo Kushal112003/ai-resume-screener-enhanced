@@ -21,7 +21,7 @@ An intelligent Streamlit-based application that automates resume screening by co
 ## 📸 Screenshots
 
 ### Resume Upload Page
-![Upload Page](screenshots/screenshot1.png)
+![Upload Page](screenshots/Screenshot 2025-06-12 015542.png)
 
 ### Score Result
 ![Score Result](screenshots/screenshot2.png)
