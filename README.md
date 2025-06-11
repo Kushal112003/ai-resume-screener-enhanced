@@ -16,16 +16,7 @@ An intelligent Streamlit-based application that automates resume screening by co
 
 ### For Recruiters:
 
-* (🚧 Under development) Recruiter dashboard to analyze multiple resumes against a job post.
-
----
-
-## 📸 Screenshots
-
-| Resume Upload & Score             | AI Suggestions                              | Score History Graph             |
-| --------------------------------- | ------------------------------------------- | ------------------------------- |
-| ![Upload](screenshots/upload.png) | ![Suggestions](screenshots/suggestions.png) | ![Graph](screenshots/graph.png) |
-
+* Recruiter dashboard to analyze multiple resumes against a job post.
 ---
 
 ## 🚀 Installation
