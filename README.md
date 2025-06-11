@@ -20,13 +20,13 @@ An intelligent Streamlit-based application that automates resume screening by co
 ---
 ## 📸 Screenshots
 
-### 🧾 Upload Resume
+### 🧾 Upload Resume candidate page
 ![Upload Page](https://github.com/Kushal112003/ai-resume-screener-enhanced/raw/main/screenshots/Screenshot%202025-06-12%20015542.png)
 
-### 📊 Score Display
+### 🧾 Upload Resume recruiter page
 ![Score Display](https://github.com/Kushal112003/ai-resume-screener-enhanced/raw/main/screenshots/Screenshot%202025-06-12%20015608.png)
 
-### 📋 Suggestions and Graph
+### 📋 Suggestions and score
 ![Suggestions and Graph](https://github.com/Kushal112003/ai-resume-screener-enhanced/raw/main/screenshots/Screenshot%202025-06-12%20015821.png)
 
 
